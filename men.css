@@ -1,0 +1,77 @@
+a {
+  padding: 30px;
+ text-decoration: none;
+ font-size: 17px;
+ width: 25%; 
+ text-align: center;
+ font-size: 10px;
+}
+
+
+.nav2 {
+ height: 70px;
+background-color: black;
+ display: flex;
+ margin-top: 10px;
+}
+
+.left_nav2 {
+ display: flex;
+ width: 35%;
+ padding-left: 50px;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.right_nav2 {
+ display: flex;
+ width: 50%;
+ justify-content: space-between;
+ align-items: center;
+ margin-left: 5%;
+}
+a {
+  color: white;
+  font-size: 14px;
+}
+select {
+ -webkit-appearance: none;
+ -moz-appearance: none;
+ text-indent: 1px;
+ text-overflow: '';
+ text-align: center;
+ background-color: black;
+ color: white;
+ text-decoration: none;
+ border: 0;
+}
+
+#container {
+  width: 100%;
+  height: 1200px;
+  text-align: center;
+  
+}
+.sort_div  {
+  margin-bottom: 40px;
+}
+.cart_btn {
+  border: 0;
+  background-color: pink;
+  color: white;
+  padding: 5px;
+}
+#container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  #flex {
+    display: flex;
+    justify-content: space-around;
+  }
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+  
