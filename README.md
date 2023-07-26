@@ -16,7 +16,7 @@
 - Payment Page
 
 
-### some snapshots of our cloned website are below:
+### Snapshots of our website are below:
 
 This is the landing page of the website:
 
