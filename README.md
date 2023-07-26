@@ -1,20 +1,19 @@
-<h1> Fastrack is a e-commerce website where you can buy watches and accessories </h1>
+<h4> Fastrack is an e-commerce website where you can buy watches and accessories </h4>
 
 ## Technologies Used:
 1. Html
 2. Css
-3. Advance JAVASCRIPT
-4. LOCALSTORAGE.
+3. JAVASCRIPT
+4. LOCAL STORAGE.
 
-## Pages Included:
+## Functionality:
 
-Landing page.
-Product Page
-Login and Rgistration for Company and Users.
-Profile Page.
-Cart Page.
-Pheckout Page
-Payment Page
+- Landing page.
+- Product Page
+- Login and Registration for Company and Users.
+- Cart Page.
+- Checkout Page
+- Payment Page
 
 
 ### some snapshots of our cloned website are below:
