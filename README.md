@@ -1,4 +1,4 @@
-<h4> Fastrack is an e-commerce website where you can buy watches and accessories </h4>
+<h4> Fastrack is an Indian fashion brand specializing in trendy and stylish accessories, primarily targeting the youth market. Fastrack offers a wide range of products, including watches, sunglasses, bags, wallets, and other fashion accessories for both men and women.  </h4>
 
 ## Technologies Used:
 1. Html
