@@ -23,5 +23,3 @@ This is the landing page of the website:
 ![snap1](https://github.com/RahulGaurr/fastrack.com/blob/main/Screenshot%20(1924).png?raw=true)
 
 
-
-## This is all about our short description of our project
